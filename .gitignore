@@ -7,6 +7,8 @@
 
 # testing
 /coverage
+postcss.config.js
+tailwind.config.js
 
 # next.js
 /.next/
